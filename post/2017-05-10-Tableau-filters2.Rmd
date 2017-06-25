@@ -19,6 +19,7 @@ The following graph shows the percentage of people per state that agree with eac
 
 ![](img/Filter State.png)
 
+
 First, we will create a new sheet listing of the options in the filter, step by step.
 
 1. Bring the Dimension you want to show to rows.
@@ -28,6 +29,7 @@ First, we will create a new sheet listing of the options in the filter, step by 
 3. Format the sheets setting the borders to None.
 
 ![](img/filters1.png)
+
 
 4. Format the Text as you wish. I like centering and making it grey and bold but that is a personal preference.
 
@@ -44,6 +46,7 @@ Let's see how we can do that.
 
 ![](img/tableau repository.png)
 
+
 7. Open the sheet again and change the Marks type to Shape.
 
 8. Drag the Dimension into the Shape box.
@@ -52,8 +55,10 @@ Let's see how we can do that.
 
 ![](img/Set shapes.png)
 
+
 10. Dis-select "Show Header" from the dimension on rows.
 ![](img/show header.png)
+
 
 We are all done, you can now click on the icon in order to filter your view!
 
