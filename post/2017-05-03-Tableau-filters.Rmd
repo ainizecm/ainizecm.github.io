@@ -26,18 +26,18 @@ Here are some of the options I have used so far to make my views less full of fi
 
 * __Consider Highlighting.__ Sometimes Highlighting is enough and there is no real need for filters
 
-  (/img/"Highlight State.png)
+![](/img/Highlight State.png)
   
   
 * __Create a sheet listing the options.__ 
 You can create a sheet that serves as a filter/highlighter on a Dashboard. It feels more userfriendly to see all the posible options.
 
-(/img/List of options.png)
+![](/img/List of options.png)
 
 * __Use icons.__ Similar to the previous option but more user friendly, you can show icons to click on as filters.
 
 
-(/img/Filter with icon.png)
+![](/img/Filter with icon.png)
 
 
 * __Use another graph as a filer.__ You can use a graph that is already in the view to serve as a filter for the rest.
