@@ -35,7 +35,7 @@ You can create a sheet that serves as a filter/highlighter on a Dashboard. It fe
 * __Use icons.__ Similar to the previous option but more user friendly, you can show icons to click on as filters.
 <img src="\static\img\Filter with icon.png" width="500">
 
-![optional caption text](../../static/img/filters1.png)
+![optional caption text](/img/filters1.png)
 
 
 * __Use another graph as a filer.__ You can use a graph that is already in the view to serve as a filter for the rest.
