@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Avoiding or Hiding Tableau filters - Part II</title>
-      <link>https://ainizecm.github.io/2017/05/avoiding-or-hiding-tableau-filters---part-ii/</link>
+      <title>Tableau filters - Part II</title>
+      <link>https://ainizecm.github.io/2017/05/tableau-filters---part-ii/</link>
       <pubDate>Wed, 03 May 2017 21:13:14 -0500</pubDate>
       
-      <guid>https://ainizecm.github.io/2017/05/avoiding-or-hiding-tableau-filters---part-ii/</guid>
-      <description>Following from the previous post on “Avoiding or Hiding Tableau filters - Part I”, let’s get down to the nitty gritty how tos!
+      <guid>https://ainizecm.github.io/2017/05/tableau-filters---part-ii/</guid>
+      <description>Following from the previous post on “Tableau filters - Part I”, let’s get down to the nitty gritty how tos!
 We start with a graph and a filter, simple.
 The following graph shows the percentage of people per state that agree with each of the statements. Each state is a bar, the more on the right the bar is the bigger percentage of the population in that specific state agrees with that sentence.</description>
     </item>

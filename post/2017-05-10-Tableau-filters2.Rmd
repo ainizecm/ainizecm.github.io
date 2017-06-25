@@ -1,5 +1,5 @@
 ---
-title: "Avoiding or Hiding Tableau filters - Part II"
+title: "Tableau filters - Part II"
 author: "Ainize Cidoncha"
 date: 2017-05-03T21:13:14-05:00
 categories: ["Tableau"]
@@ -10,7 +10,7 @@ tags: ["Tableau", "filters", "icons","visual"]
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-Following from the previous post on [**"Avoiding or Hiding Tableau filters - Part I"**](https://ainizecm.github.io/2017/05/tableau-filters---part-i/),
+Following from the previous post on [**"Tableau filters - Part I"**](https://ainizecm.github.io/2017/05/tableau-filters---part-i/),
 let's get down to the nitty gritty how tos!
 
 We start with a graph and a filter, simple.
