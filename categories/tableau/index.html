@@ -23,9 +23,9 @@
     <meta name="author" content="Ainize Cidoncha">
     <meta name="keywords" content="">
 
-    <link rel="icon" href="https://ainizecm.github.io/favicon.png">
+    <link rel="icon" href="/favicon.png">
     
-      <link rel="alternate" type="application/rss+xml" title="RSS" href="https://ainizecm.github.io/categories/tableau/index.xml">
+      <link rel="alternate" type="application/rss+xml" title="RSS" href="/categories/tableau/index.xml">
     
 
     
@@ -62,7 +62,7 @@
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" />
     
     
-    <link rel="stylesheet" href="https://ainizecm.github.io/css/style-u6mk0ojoywresbx8iepslrmmhl4stuhrsxuwhkpwrkrx7mryjcaimasnk4pi.min.css" />
+    <link rel="stylesheet" href="/css/style-u6mk0ojoywresbx8iepslrmmhl4stuhrsxuwhkpwrkrx7mryjcaimasnk4pi.min.css" />
     
     
 
@@ -87,12 +87,12 @@ ga('send', 'pageview');
       <header id="header" data-behavior="6">
   <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
   <div class="header-title">
-    <a class="header-title-link" href="https://ainizecm.github.io/">AInI</a>
+    <a class="header-title-link" href="/">AInI</a>
   </div>
   
     
       <a class="header-right-picture "
-         href="https://ainizecm.github.io/#about">
+         href="/#about">
     
     
     
@@ -108,7 +108,7 @@ ga('send', 'pageview');
   <div class="sidebar-container">
     
       <div class="sidebar-profile">
-        <a href="https://ainizecm.github.io/#about">
+        <a href="/#about">
           <img class="sidebar-profile-picture" src="//www.gravatar.com/avatar/5b55771b31bf38db3655e63ad0fcdfae?s=110" alt="Author&#39;s picture" />
         </a>
         <h4 class="sidebar-profile-name">Ainize Cidoncha</h4>
@@ -121,7 +121,7 @@ ga('send', 'pageview');
       
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://ainizecm.github.io/categories">
+      <a class="sidebar-button-link " href="/categories">
     
       <i class="sidebar-button-icon fa fa-lg fa-bookmark"></i>
       
@@ -131,7 +131,7 @@ ga('send', 'pageview');
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://ainizecm.github.io/tags">
+      <a class="sidebar-button-link " href="/tags">
     
       <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
       
@@ -141,7 +141,7 @@ ga('send', 'pageview');
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://ainizecm.github.io/archives">
+      <a class="sidebar-button-link " href="/archives">
     
       <i class="sidebar-button-icon fa fa-lg fa-archive"></i>
       
@@ -151,7 +151,7 @@ ga('send', 'pageview');
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://ainizecm.github.io/#about">
+      <a class="sidebar-button-link " href="/#about">
     
       <i class="sidebar-button-icon fa fa-lg fa-question"></i>
       
@@ -161,7 +161,7 @@ ga('send', 'pageview');
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://ainizecm.github.io/">
+      <a class="sidebar-button-link " href="/">
     
       <i class="sidebar-button-icon fa fa-lg fa-home"></i>
       
@@ -174,7 +174,7 @@ ga('send', 'pageview');
       
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://github.com/ainizecm" target="_blank">
+      <a class="sidebar-button-link " href="https://github.com/ainizecm">
     
       <i class="sidebar-button-icon fa fa-lg fa-github"></i>
       
@@ -187,7 +187,7 @@ ga('send', 'pageview');
       
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://ainizecm.github.io/index.xml">
+      <a class="sidebar-button-link " href="/index.xml">
     
       <i class="sidebar-button-icon fa fa-lg fa-rss"></i>
       
@@ -228,8 +228,8 @@ ga('send', 'pageview');
     
     <div class="postShorten-header">
       <h1 class="postShorten-title" itemprop="headline">
-        <a class="link-unstyled" href="https://ainizecm.github.io/2017/05/avoiding-or-hiding-tableau-filters---part-i/">
-          Avoiding or Hiding Tableau filters - Part I
+        <a class="link-unstyled" href="/2017/05/avoiding-or-hiding-tableau-filters---part-ii/">
+          Avoiding or Hiding Tableau filters - Part II
         </a>
       </h1>
       <div class="postShorten-meta post-meta">
@@ -245,7 +245,7 @@ ga('send', 'pageview');
   
     <span>in</span>
     
-      <a class="category-link" href="https://ainizecm.github.io/categories/tableau">Tableau</a>
+      <a class="category-link" href="/categories/tableau">Tableau</a>
     
   
 
@@ -255,13 +255,11 @@ ga('send', 'pageview');
     </div>
     <div class="postShorten-excerpt" itemprop="articleBody">
       <p>
-        When it comes to Tableau Dashboards, I am known as a filter-hater within my team. I find them ugly and not very user friendly. That’s why I always try to find new ways to avoid, hide or just make filters more user-friendly.
-It usually helps me going through the following process:
-Built a Dashboard that is able to show the needed level of detail (use all the filters you need)
-See if some coloring/shaping can help
-If filtering is needed, can you incorporate it nicely in the view?
+        Following from the previous post on “Avoiding or Hiding Tableau filters - Part I”, let’s get down to the nitty gritty how tos!
+We start with a graph and a filter, simple.
+The following graph shows the percentage of people per state that agree with each of the statements. Each state is a bar, the more on the right the bar is the bigger percentage of the population in that specific state agrees with that sentence.
         <br>
-        <a href="https://ainizecm.github.io/2017/05/avoiding-or-hiding-tableau-filters---part-i/" class="postShorten-excerpt_link link">Continue reading</a>
+        <a href="/2017/05/avoiding-or-hiding-tableau-filters---part-ii/" class="postShorten-excerpt_link link">Continue reading</a>
         
       </p>
     </div>
@@ -287,8 +285,8 @@ If filtering is needed, can you incorporate it nicely in the view?
     
     <div class="postShorten-header">
       <h1 class="postShorten-title" itemprop="headline">
-        <a class="link-unstyled" href="https://ainizecm.github.io/2017/05/avoiding-or-hiding-tableau-filters---part-ii/">
-          Avoiding or Hiding Tableau filters - Part II
+        <a class="link-unstyled" href="/2017/05/tableau-filters---part-i/">
+          Tableau filters - Part I
         </a>
       </h1>
       <div class="postShorten-meta post-meta">
@@ -304,7 +302,7 @@ If filtering is needed, can you incorporate it nicely in the view?
   
     <span>in</span>
     
-      <a class="category-link" href="https://ainizecm.github.io/categories/tableau">Tableau</a>
+      <a class="category-link" href="/categories/tableau">Tableau</a>
     
   
 
@@ -314,11 +312,13 @@ If filtering is needed, can you incorporate it nicely in the view?
     </div>
     <div class="postShorten-excerpt" itemprop="articleBody">
       <p>
-        Following from the previous post on “Avoiding or Hiding Tableau filters - Part I”, let’s get down to the nitty gritty how tos!
-We start with a graph and a filter, simple.
-The following graph shows the percentage of people per state that agree with each of the statements. Each state is a bar, the more on the right the bar is the bigger percentage of the population in that specific state agrees with that sentence.
+        When it comes to Tableau Dashboards, I am known as a filter-hater within my team. I find them ugly and not very user friendly. That’s why I always try to find new ways to make filters more user-friendly.
+It usually helps me going through the following process:
+Built a Dashboard that is able to show the needed level of detail (use all the filters you need)
+See if some coloring/shaping can help
+If filtering is needed, can you incorporate it nicely in the view?
         <br>
-        <a href="https://ainizecm.github.io/2017/05/avoiding-or-hiding-tableau-filters---part-ii/" class="postShorten-excerpt_link link">Continue reading</a>
+        <a href="/2017/05/tableau-filters---part-i/" class="postShorten-excerpt_link link">Continue reading</a>
         
       </p>
     </div>
@@ -385,26 +385,7 @@ The following graph shows the percentage of people per state that agree with eac
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="https://ainizecm.github.io/2017/05/avoiding-or-hiding-tableau-filters---part-i/">
-                <h3 class="media-heading">Avoiding or Hiding Tableau filters - Part I</h3>
-              </a>
-              <span class="media-meta">
-                <span class="media-date text-small">
-                  May 5, 2017
-                </span>
-              </span>
-              <div class="media-content hide-xs font-merryweather">When it comes to Tableau Dashboards, I am known as a filter-hater within my team. I find them ugly and not very user friendly. That’s why I always try to find new ways to avoid, hide or just make filters more user-friendly.
-It usually helps me going through the following process:
-Built a Dashboard that is able to show the needed level of detail (use all the filters you need)See if some coloring/shaping can helpIf filtering is needed, can you incorporate it nicely in the view?</div>
-            </div>
-            <div style="clear:both;"></div>
-            <hr>
-          </div>
-        
-          <div class="media">
-            
-            <div class="media-body">
-              <a class="link-unstyled" href="https://ainizecm.github.io/2017/05/avoiding-or-hiding-tableau-filters---part-ii/">
+              <a class="link-unstyled" href="/2017/05/avoiding-or-hiding-tableau-filters---part-ii/">
                 <h3 class="media-heading">Avoiding or Hiding Tableau filters - Part II</h3>
               </a>
               <span class="media-meta">
@@ -423,7 +404,26 @@ The following graph shows the percentage of people per state that agree with eac
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="https://ainizecm.github.io/2017/05/hello-world/">
+              <a class="link-unstyled" href="/2017/05/tableau-filters---part-i/">
+                <h3 class="media-heading">Tableau filters - Part I</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  May 5, 2017
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">When it comes to Tableau Dashboards, I am known as a filter-hater within my team. I find them ugly and not very user friendly. That’s why I always try to find new ways to make filters more user-friendly.
+It usually helps me going through the following process:
+Built a Dashboard that is able to show the needed level of detail (use all the filters you need)See if some coloring/shaping can helpIf filtering is needed, can you incorporate it nicely in the view?</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="/2017/05/hello-world/">
                 <h3 class="media-heading">Hello World</h3>
               </a>
               <span class="media-meta">
@@ -442,7 +442,7 @@ Bilbao, Utrecht, Barcelona, Chicago and London are how I would describe my caree
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="https://ainizecm.github.io/post/">
+              <a class="link-unstyled" href="/post/">
                 <h3 class="media-heading">Posts</h3>
               </a>
               <span class="media-meta">
@@ -471,7 +471,7 @@ Bilbao, Utrecht, Barcelona, Chicago and London are how I would describe my caree
     
   
     
-    <div id="cover" style="background-image:url('https://ainizecm.github.io/images/cover.jpg');"></div>
+    <div id="cover" style="background-image:url('/images/cover.jpg');"></div>
   
 
 
@@ -482,7 +482,7 @@ Bilbao, Utrecht, Barcelona, Chicago and London are how I would describe my caree
 <script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.js"></script>
 
 
-<script src="https://ainizecm.github.io/js/script-wl33z0n6ocaypepiqrazthtivfrliqijej4rq8ek8gvrv1awftmgjuv8k4zc.min.js"></script>
+<script src="/js/script-wl33z0n6ocaypepiqrazthtivfrliqijej4rq8ek8gvrv1awftmgjuv8k4zc.min.js"></script>
 
 <script>
 $(document).ready(function() {
