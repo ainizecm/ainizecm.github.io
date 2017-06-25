@@ -1,0 +1,2 @@
+# ainizecm.github.io
+blog
