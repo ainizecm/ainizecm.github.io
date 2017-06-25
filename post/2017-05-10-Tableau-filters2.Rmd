@@ -27,7 +27,7 @@ First, we will create a new sheet listing of the options in the filter, step by 
 
 3. Format the sheets setting the borders to None.
 
-(img/"filters1.png)
+(img/filters1.png)
 
 4. Format the Text as you wish. I like centering and making it grey and bold but that is a personal preference.
 
