@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on AInI</title>
+    <link>/tags/r/</link>
+    <description>Recent content in R on AInI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Jun 2017 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R and Github</title>
+      <link>/2017/06/r-and-github/</link>
+      <pubDate>Sat, 03 Jun 2017 21:13:14 -0500</pubDate>
+      
+      <guid>/2017/06/r-and-github/</guid>
+      <description>I have being using R since I was at uni and I did recently discovered how to sync it with Github for version control of projects which is making my life much easier.
+I love being to have a version control of my project. Moreover, I can use any computer to work on my app which is giving me a lot of flexibility.
+There are obviuosly other tool as Google Drive, One Drive…that you can use to save your work through laptops but I just find the integration of R with Github very handy.</description>
+    </item>
+    
+    <item>
+      <title>R and Github</title>
+      <link>/2017/06/r-and-github/</link>
+      <pubDate>Sat, 03 Jun 2017 21:13:14 -0500</pubDate>
+      
+      <guid>/2017/06/r-and-github/</guid>
+      <description>I have being using R since I was at uni and I did recently discovered how to sync it with Github for version control of projects which is making my life much easier.
+I love being to have a version control of my project. Moreover, I can use any computer to work on my app which is giving me a lot of flexibility.
+There are obviuosly other tool as Google Drive, One Drive&amp;hellip;that you can use to save your work through laptops but I just find the integration of R with Github very handy.</description>
+    </item>
+    
+  </channel>
+</rss>
