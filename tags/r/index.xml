@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>R and Github</title>
-      <link>https://ainizecm.github.io/2017/06/r-and-github/</link>
+      <title>R &amp; Git</title>
+      <link>https://ainizecm.github.io/2017/06/r--git/</link>
       <pubDate>Sat, 03 Jun 2017 21:13:14 -0500</pubDate>
       
-      <guid>https://ainizecm.github.io/2017/06/r-and-github/</guid>
+      <guid>https://ainizecm.github.io/2017/06/r--git/</guid>
       <description>I have being using R since I was at uni and I did recently discovered how to sync it with Github for version control of projects which is making my life much easier.
 I love being to have a version control of my project. Moreover, I can use any computer to work on my app which is giving me a lot of flexibility.
 There are obviuosly other tool as Google Drive, One Drive&amp;hellip;that you can use to save your work through laptops but I just find the integration of R with Github very handy.</description>
