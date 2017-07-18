@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on AInI</title>
-    <link>https://ainizecm.github.io/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on AInI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Jun 2017 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="https://ainizecm.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R &amp; Git</title>
-      <link>https://ainizecm.github.io/2017/06/r--git/</link>
+      <link>/2017/06/r--git/</link>
       <pubDate>Sat, 03 Jun 2017 21:13:14 -0500</pubDate>
       
-      <guid>https://ainizecm.github.io/2017/06/r--git/</guid>
+      <guid>/2017/06/r--git/</guid>
       <description>I have being using R since I was at uni and I did recently discovered how to sync it with Github for version control of projects which is making my life much easier.
 I love being to have a version control of my project. Moreover, I can use any computer to work on my app which is giving me a lot of flexibility.
 There are obviuosly other tool as Google Drive, One Drive&amp;hellip;that you can use to save your work through laptops but I just find the integration of R with Github very handy.</description>
@@ -24,10 +24,10 @@ There are obviuosly other tool as Google Drive, One Drive&amp;hellip;that you ca
     
     <item>
       <title>Tableau filters - Part II</title>
-      <link>https://ainizecm.github.io/2017/05/tableau-filters---part-ii/</link>
+      <link>/2017/05/tableau-filters---part-ii/</link>
       <pubDate>Fri, 05 May 2017 21:13:14 -0500</pubDate>
       
-      <guid>https://ainizecm.github.io/2017/05/tableau-filters---part-ii/</guid>
+      <guid>/2017/05/tableau-filters---part-ii/</guid>
       <description>Following from the previous post on “Tableau filters - Part I”, let’s get down to the nitty gritty how tos!
 We start with a graph and a filter, simple.
 The following graph shows the percentage of people per state that agree with each of the statements. Each state is a bar, the more on the right the bar is the bigger percentage of the population in that specific state agrees with that sentence.</description>
@@ -35,10 +35,10 @@ The following graph shows the percentage of people per state that agree with eac
     
     <item>
       <title>Tableau filters - Part I</title>
-      <link>https://ainizecm.github.io/2017/05/tableau-filters---part-i/</link>
+      <link>/2017/05/tableau-filters---part-i/</link>
       <pubDate>Wed, 03 May 2017 21:13:14 -0500</pubDate>
       
-      <guid>https://ainizecm.github.io/2017/05/tableau-filters---part-i/</guid>
+      <guid>/2017/05/tableau-filters---part-i/</guid>
       <description>When it comes to Tableau Dashboards, I am known as a filter-hater within my team. I find them ugly and not very user friendly. That’s why I always try to find new ways to make filters more user-friendly.
 It usually helps me going through the following process:
 Built a Dashboard that is able to show the needed level of detail (use all the filters you need) See if some coloring/shaping can help If filtering is needed, can you incorporate it nicely in the view?</description>
@@ -46,10 +46,10 @@ Built a Dashboard that is able to show the needed level of detail (use all the f
     
     <item>
       <title>Hello World</title>
-      <link>https://ainizecm.github.io/2017/05/hello-world/</link>
+      <link>/2017/05/hello-world/</link>
       <pubDate>Tue, 02 May 2017 21:13:14 -0500</pubDate>
       
-      <guid>https://ainizecm.github.io/2017/05/hello-world/</guid>
+      <guid>/2017/05/hello-world/</guid>
       <description>Hello world!
 I am Ainize, Commercial Analyst in Global during the day and Consultant for ISGlobal at night. I am passionate about analytics, decision making, data, frameworks and having an impact through numbers. And that is what I will be writing about.
 Bilbao, Utrecht, Barcelona, Chicago and London are how I would describe my career so far. Each city has given me something different and special, not only at a professional level.</description>
