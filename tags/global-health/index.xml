@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Global Health on AInI</title>
+    <link>/tags/global-health/</link>
+    <description>Recent content in Global Health on AInI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jul 2017 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/global-health/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Xtrategy</title>
+      <link>/ongoing-post/2017-07-26-building-healthcare-strategies/</link>
+      <pubDate>Wed, 26 Jul 2017 21:13:14 -0500</pubDate>
+      
+      <guid>/ongoing-post/2017-07-26-building-healthcare-strategies/</guid>
+      <description>knitr::opts_chunk$set(collapse = TRUE)  Every novel approach borns when you think differently, when you don&amp;rsquo;t let contrains frame a project and when you are passionate about what you are trying to achive.
+In this case, starting with no previous knowledge on the solution of the problem and having a great mentor were the bigest factors to develop a new approach. A novel mind is usually more likely to think out of the box and with good guidance it can lead to great things.</description>
+    </item>
+    
+  </channel>
+</rss>

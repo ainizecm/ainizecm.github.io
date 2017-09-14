@@ -2,21 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on AInI</title>
-    <link>https://ainizecm.github.io/tags/r/</link>
+    <link>/tags/r/</link>
     <description>Recent content in R on AInI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Jun 2017 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2017 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="https://ainizecm.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Xtrategy</title>
+      <link>/ongoing-post/2017-07-26-building-healthcare-strategies/</link>
+      <pubDate>Wed, 26 Jul 2017 21:13:14 -0500</pubDate>
+      
+      <guid>/ongoing-post/2017-07-26-building-healthcare-strategies/</guid>
+      <description>knitr::opts_chunk$set(collapse = TRUE)  Every novel approach borns when you think differently, when you don&amp;rsquo;t let contrains frame a project and when you are passionate about what you are trying to achive.
+In this case, starting with no previous knowledge on the solution of the problem and having a great mentor were the bigest factors to develop a new approach. A novel mind is usually more likely to think out of the box and with good guidance it can lead to great things.</description>
+    </item>
+    
+    <item>
       <title>R &amp; Git</title>
-      <link>https://ainizecm.github.io/2017/06/r--git/</link>
+      <link>/2017/06/r--git/</link>
       <pubDate>Sat, 03 Jun 2017 21:13:14 -0500</pubDate>
       
-      <guid>https://ainizecm.github.io/2017/06/r--git/</guid>
+      <guid>/2017/06/r--git/</guid>
       <description>I have being using R since I was at uni and I did recently discovered how to sync it with Github for version control of projects which is making my life much easier.
 I love being to have a version control of my project. Moreover, I can use any computer to work on my app which is giving me a lot of flexibility.
 There are obviuosly other tool as Google Drive, One Drive&amp;hellip;that you can use to save your work through laptops but I just find the integration of R with Github very handy.</description>
