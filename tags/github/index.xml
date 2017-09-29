@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Github on AInI</title>
-    <link>/tags/github/</link>
+    <link>https://ainizecm.github.io/tags/github/</link>
     <description>Recent content in Github on AInI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Jun 2017 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/tags/github/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ainizecm.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R &amp; Git</title>
-      <link>/2017/06/r--git/</link>
+      <link>https://ainizecm.github.io/2017/06/r--git/</link>
       <pubDate>Sat, 03 Jun 2017 21:13:14 -0500</pubDate>
       
-      <guid>/2017/06/r--git/</guid>
+      <guid>https://ainizecm.github.io/2017/06/r--git/</guid>
       <description>I have being using R since I was at uni and I did recently discovered how to sync it with Github for version control of projects which is making my life much easier.
 I love being to have a version control of my project. Moreover, I can use any computer to work on my app which is giving me a lot of flexibility.
 There are obviuosly other tool as Google Drive, One Drive&amp;hellip;that you can use to save your work through laptops but I just find the integration of R with Github very handy.</description>

@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on AInI</title>
-    <link>/tags/</link>
+    <link>https://ainizecm.github.io/tags/</link>
     <description>Recent content in Tags on AInI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 May 2017 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ainizecm.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/tags/about/</link>
+      <link>https://ainizecm.github.io/tags/about/</link>
       <pubDate>Tue, 02 May 2017 21:13:14 -0500</pubDate>
       
-      <guid>/tags/about/</guid>
+      <guid>https://ainizecm.github.io/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alteryx</title>
-      <link>/tags/alteryx/</link>
+      <link>https://ainizecm.github.io/tags/alteryx/</link>
       <pubDate>Tue, 18 Jul 2017 21:13:14 -0500</pubDate>
       
-      <guid>/tags/alteryx/</guid>
+      <guid>https://ainizecm.github.io/tags/alteryx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analytics</title>
-      <link>/tags/analytics/</link>
+      <link>https://ainizecm.github.io/tags/analytics/</link>
       <pubDate>Tue, 18 Jul 2017 21:13:14 -0500</pubDate>
       
-      <guid>/tags/analytics/</guid>
+      <guid>https://ainizecm.github.io/tags/analytics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Filters</title>
-      <link>/tags/filters/</link>
+      <link>https://ainizecm.github.io/tags/filters/</link>
       <pubDate>Fri, 05 May 2017 21:13:14 -0500</pubDate>
       
-      <guid>/tags/filters/</guid>
+      <guid>https://ainizecm.github.io/tags/filters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Github</title>
-      <link>/tags/github/</link>
+      <link>https://ainizecm.github.io/tags/github/</link>
       <pubDate>Sat, 03 Jun 2017 21:13:14 -0500</pubDate>
       
-      <guid>/tags/github/</guid>
+      <guid>https://ainizecm.github.io/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello</title>
-      <link>/tags/hello/</link>
+      <link>https://ainizecm.github.io/tags/hello/</link>
       <pubDate>Tue, 02 May 2017 21:13:14 -0500</pubDate>
       
-      <guid>/tags/hello/</guid>
+      <guid>https://ainizecm.github.io/tags/hello/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Icons</title>
-      <link>/tags/icons/</link>
+      <link>https://ainizecm.github.io/tags/icons/</link>
       <pubDate>Fri, 05 May 2017 21:13:14 -0500</pubDate>
       
-      <guid>/tags/icons/</guid>
+      <guid>https://ainizecm.github.io/tags/icons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/tags/r/</link>
+      <link>https://ainizecm.github.io/tags/r/</link>
       <pubDate>Sat, 03 Jun 2017 21:13:14 -0500</pubDate>
       
-      <guid>/tags/r/</guid>
+      <guid>https://ainizecm.github.io/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sql</title>
-      <link>/tags/sql/</link>
+      <link>https://ainizecm.github.io/tags/sql/</link>
       <pubDate>Tue, 18 Jul 2017 21:13:14 -0500</pubDate>
       
-      <guid>/tags/sql/</guid>
+      <guid>https://ainizecm.github.io/tags/sql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tableau</title>
-      <link>/tags/tableau/</link>
+      <link>https://ainizecm.github.io/tags/tableau/</link>
       <pubDate>Fri, 05 May 2017 21:13:14 -0500</pubDate>
       
-      <guid>/tags/tableau/</guid>
+      <guid>https://ainizecm.github.io/tags/tableau/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Temp Tables</title>
-      <link>/tags/temp-tables/</link>
+      <link>https://ainizecm.github.io/tags/temp-tables/</link>
       <pubDate>Tue, 18 Jul 2017 21:13:14 -0500</pubDate>
       
-      <guid>/tags/temp-tables/</guid>
+      <guid>https://ainizecm.github.io/tags/temp-tables/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Version Control</title>
-      <link>/tags/version-control/</link>
+      <link>https://ainizecm.github.io/tags/version-control/</link>
       <pubDate>Sat, 03 Jun 2017 21:13:14 -0500</pubDate>
       
-      <guid>/tags/version-control/</guid>
+      <guid>https://ainizecm.github.io/tags/version-control/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual</title>
-      <link>/tags/visual/</link>
+      <link>https://ainizecm.github.io/tags/visual/</link>
       <pubDate>Fri, 05 May 2017 21:13:14 -0500</pubDate>
       
-      <guid>/tags/visual/</guid>
+      <guid>https://ainizecm.github.io/tags/visual/</guid>
       <description></description>
     </item>
     
