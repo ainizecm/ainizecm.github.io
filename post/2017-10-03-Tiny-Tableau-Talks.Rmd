@@ -1,0 +1,16 @@
+---
+title: "Welcome to AInI"
+thumbnailImagePosition: left
+thumbnailImage: /img/TableauFilters.png
+author: "Ainize Cidoncha"
+date: 2017-10-03T21:13:14-05:00
+categories: ["Tableau"]
+tags: ["Tableau", "filters","Talks","Public Speaking"]
+draft: yes 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+ 
+ New post

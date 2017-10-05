@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meet Up on AInI     /    Analytics and INspirational Ideas</title>
+    <link>https://ainizecm.github.io/tags/meet-up/</link>
+    <description>Recent content in Meet Up on AInI     /    Analytics and INspirational Ideas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Oct 2017 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="https://ainizecm.github.io/tags/meet-up/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Machine Learning Fireside Chats by BBC Blue Rooms</title>
+      <link>https://ainizecm.github.io/2017/10/machine-learning-fireside-chats-by-bbc-blue-rooms/</link>
+      <pubDate>Mon, 02 Oct 2017 21:13:14 -0500</pubDate>
+      
+      <guid>https://ainizecm.github.io/2017/10/machine-learning-fireside-chats-by-bbc-blue-rooms/</guid>
+      <description>&lt;p&gt;Yesterday I attended for the first time to the &lt;a href=&#34;https://www.meetup.com/Machine-learning-Fireside-Talks/events/243484056/&#34;&gt;&lt;strong&gt;Machine Learning Fireside Chats&lt;/strong&gt;&lt;/a&gt; meetup run by the BBC Blue Room. Even though it was quite far from work and home I could not help going after seeing the name of the speakers on the line up.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

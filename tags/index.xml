@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on AInI</title>
+    <title>Tags on AInI     /    Analytics and INspirational Ideas</title>
     <link>https://ainizecm.github.io/tags/</link>
-    <description>Recent content in Tags on AInI</description>
+    <description>Recent content in Tags on AInI     /    Analytics and INspirational Ideas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 May 2017 21:13:14 -0500</lastBuildDate>
@@ -35,6 +35,15 @@
       <pubDate>Tue, 18 Jul 2017 21:13:14 -0500</pubDate>
       
       <guid>https://ainizecm.github.io/tags/analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://ainizecm.github.io/tags/data-science/</link>
+      <pubDate>Mon, 02 Oct 2017 21:13:14 -0500</pubDate>
+      
+      <guid>https://ainizecm.github.io/tags/data-science/</guid>
       <description></description>
     </item>
     
@@ -71,6 +80,24 @@
       <pubDate>Fri, 05 May 2017 21:13:14 -0500</pubDate>
       
       <guid>https://ainizecm.github.io/tags/icons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://ainizecm.github.io/tags/machine-learning/</link>
+      <pubDate>Mon, 02 Oct 2017 21:13:14 -0500</pubDate>
+      
+      <guid>https://ainizecm.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meet Up</title>
+      <link>https://ainizecm.github.io/tags/meet-up/</link>
+      <pubDate>Mon, 02 Oct 2017 21:13:14 -0500</pubDate>
+      
+      <guid>https://ainizecm.github.io/tags/meet-up/</guid>
       <description></description>
     </item>
     

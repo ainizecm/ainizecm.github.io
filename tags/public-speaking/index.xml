@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Public Speaking on AInI     /    Analytics and INspirational Ideas</title>
+    <link>/tags/public-speaking/</link>
+    <description>Recent content in Public Speaking on AInI     /    Analytics and INspirational Ideas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Oct 2017 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/public-speaking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to AInI</title>
+      <link>/2017/10/welcome-to-aini/</link>
+      <pubDate>Tue, 03 Oct 2017 21:13:14 -0500</pubDate>
+      
+      <guid>/2017/10/welcome-to-aini/</guid>
+      <description>New post</description>
+    </item>
+    
+  </channel>
+</rss>
