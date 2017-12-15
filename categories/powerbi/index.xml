@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Powerbi on AInI     /    Analytics and INspirational Ideas</title>
+    <link>/categories/powerbi/</link>
+    <description>Recent content in Powerbi on AInI     /    Analytics and INspirational Ideas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Dec 2017 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/categories/powerbi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analysing Customer Dynamics with PowerBI</title>
+      <link>/2017/12/analysing-customer-dynamics-with-powerbi/</link>
+      <pubDate>Sat, 02 Dec 2017 21:13:14 -0500</pubDate>
+      
+      <guid>/2017/12/analysing-customer-dynamics-with-powerbi/</guid>
+      <description>&lt;p&gt;IDEAS:
+Customer Segmentation
+Retetion/Churn
+Value of your customer database
+Projection
+Customer, loyality, retention and value
+Movements
+Segments Dynamics
+PAST- Retention, Churn
+PRESENT- Segments, Value
+FUTURE -Projection of segmetns and value
+WHY IS THIS IMPORTANT?
+Because it would help you unlock the direction of your customer database and improve your retention strategy.
+Replicabel with your transactional dataset&lt;/p&gt;
+
+&lt;p&gt;Understanding our Customer Database is essential to understand our business. Not only which are the loyal clients, the new ones, the ones that are more likely to churn or the high value ones, but also understanding the dynamics between this groups and what is the trend moving forward.&lt;/p&gt;
+
+&lt;p&gt;We can learn about what makes a customer stay or leave and define out strategy by simply analyzing historical transactional data.&lt;/p&gt;
+
+&lt;p&gt;For this example I will use a &lt;a href=&#34;http://archive.ics.uci.edu/ml/datasets/online+retail&#34;&gt;&lt;strong&gt;dataset&lt;/strong&gt;&lt;/a&gt; provide by the UCI, which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.
+ &lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

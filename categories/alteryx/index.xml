@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alteryx on AInI     /    Analytics and INspirational Ideas</title>
-    <link>https://ainizecm.github.io/categories/alteryx/</link>
+    <link>/categories/alteryx/</link>
     <description>Recent content in Alteryx on AInI     /    Analytics and INspirational Ideas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Jul 2017 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="https://ainizecm.github.io/categories/alteryx/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/alteryx/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SQL Procedures in Alteryx</title>
-      <link>https://ainizecm.github.io/2017/07/sql-procedures-in-alteryx/</link>
+      <link>/2017/07/sql-procedures-in-alteryx/</link>
       <pubDate>Tue, 18 Jul 2017 21:13:14 -0500</pubDate>
       
-      <guid>https://ainizecm.github.io/2017/07/sql-procedures-in-alteryx/</guid>
+      <guid>/2017/07/sql-procedures-in-alteryx/</guid>
       <description>Do you love Alteryx but have already complex SQL queries that you would like to use as your input data?
 Alteryx is great and it is usually my go to point when I need to manipulate data. However, in the team we also use SQL quite often, for instance, there are some pre-defined queries that make it easier for us to get the output we want.
 In some cases, I want to develop further manipulation or analysis on those tables connecting them directly to Alteryx.</description>

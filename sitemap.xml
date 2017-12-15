@@ -2,206 +2,247 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ainizecm.github.io/2020/10/welcome-to-aini-analytics-and-inspirational-ideas/</loc>
+    <loc>/2020/10/welcome-to-aini-analytics-and-inspirational-ideas/</loc>
     <lastmod>2020-10-02T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/2017/10/machine-learning-fireside-chats-by-bbc-blue-rooms/</loc>
+    <loc>/2017/12/analysing-customer-dynamics-with-powerbi/</loc>
+    <lastmod>2017-12-02T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/10/machine-learning-fireside-chats-by-bbc-blue-rooms/</loc>
     <lastmod>2017-10-02T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/2017/07/sql-procedures-in-alteryx/</loc>
+    <loc>/2017/07/sql-procedures-in-alteryx/</loc>
     <lastmod>2017-07-18T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/2017/06/r--git/</loc>
+    <loc>/2017/06/r--git/</loc>
     <lastmod>2017-06-03T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/2017/05/tableau-filters---part-ii/</loc>
+    <loc>/2017/05/tableau-filters---part-ii/</loc>
     <lastmod>2017-05-05T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/2017/05/tableau-filters---part-i/</loc>
+    <loc>/2017/05/tableau-filters---part-i/</loc>
     <lastmod>2017-05-03T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/2017/05/hello-world/</loc>
+    <loc>/2017/05/hello-world/</loc>
     <lastmod>2017-05-02T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/projects/</loc>
+    <loc>/projects/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/talks/</loc>
+    <loc>/talks/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2020-10-02T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/tags/about/</loc>
+    <loc>/tags/about/</loc>
     <lastmod>2017-05-02T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/categories/about/</loc>
+    <loc>/categories/about/</loc>
     <lastmod>2017-05-02T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/tags/alteryx/</loc>
+    <loc>/tags/alteryx/</loc>
     <lastmod>2017-07-18T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/categories/alteryx/</loc>
+    <loc>/categories/alteryx/</loc>
     <lastmod>2017-07-18T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/tags/analytics/</loc>
-    <lastmod>2017-07-18T21:13:14-05:00</lastmod>
+    <loc>/tags/analytics/</loc>
+    <lastmod>2017-12-02T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/archives/</loc>
+    <loc>/categories/analytics/</loc>
+    <lastmod>2017-12-02T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/categories/</loc>
+    <loc>/archives/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <lastmod>2017-05-02T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/tags/data-science/</loc>
+    <loc>/tags/churn/</loc>
+    <lastmod>2017-12-02T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/data-science/</loc>
     <lastmod>2017-10-02T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/tags/filters/</loc>
+    <loc>/tags/filters/</loc>
     <lastmod>2017-05-05T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/tags/github/</loc>
+    <loc>/tags/github/</loc>
     <lastmod>2017-06-03T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/tags/hello/</loc>
+    <loc>/tags/hello/</loc>
     <lastmod>2017-05-02T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/tags/icons/</loc>
+    <loc>/tags/icons/</loc>
     <lastmod>2017-05-05T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/tags/machine-learning/</loc>
+    <loc>/tags/machine-learning/</loc>
     <lastmod>2017-10-02T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/tags/meet-up/</loc>
+    <loc>/tags/meet-up/</loc>
     <lastmod>2017-10-02T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/categories/meet-up/</loc>
+    <loc>/categories/meet-up/</loc>
     <lastmod>2017-10-02T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-10-02T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/tags/r/</loc>
+    <loc>/tags/powerbi/</loc>
+    <lastmod>2017-12-02T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/powerbi/</loc>
+    <lastmod>2017-12-02T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
     <lastmod>2017-06-03T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/categories/r/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2017-06-03T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/tags/sql/</loc>
+    <loc>/tags/segmentation/</loc>
+    <lastmod>2017-12-02T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/segmentation/</loc>
+    <lastmod>2017-12-02T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sql/</loc>
     <lastmod>2017-07-18T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/tags/tableau/</loc>
+    <loc>/tags/tableau/</loc>
     <lastmod>2017-05-05T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/categories/tableau/</loc>
+    <loc>/categories/tableau/</loc>
     <lastmod>2017-05-05T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2017-05-02T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/tags/temp-tables/</loc>
+    <loc>/tags/temp-tables/</loc>
     <lastmod>2017-07-18T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/tags/version-control/</loc>
+    <loc>/tags/version-control/</loc>
     <lastmod>2017-06-03T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ainizecm.github.io/tags/visual/</loc>
+    <loc>/tags/visual/</loc>
     <lastmod>2017-05-05T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
